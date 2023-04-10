@@ -1,8 +1,8 @@
 ## Mutation Testing with PIT Hands-on
 
-### [PIT](https://pitest.org)
+### PIT
 
-PIT is a mutation testing tool developed by Henry Coles, a professional softeware developer. It is unique because it is NOT an academic prototype.
+[PIT](https://pitest.org) is a mutation testing tool developed by Henry Coles, a professional softeware developer. It is unique because it is NOT an academic prototype.
 
 Please refer to its documentation, especially its integration to build tools such as [Maven](https://pitest.org/quickstart/maven/) and [Gradle](http://gradle-pitest-plugin.solidsoft.info). Download and install PIT from the URL above.
 
